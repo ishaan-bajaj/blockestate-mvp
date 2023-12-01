@@ -4,16 +4,16 @@
   "config": {
     "http_handler": {
       "port": null,
-      "write_port_to": "/home/humaarabajaj/ic_project/blockestate-mvp/.dfx/network/local/replica-configuration/replica-1.port"
+      "write_port_to": "/Users/shreyanshsharma/Desktop/blockestate-mvp/.dfx/network/local/replica-configuration/replica-1.port"
     },
     "state_manager": {
-      "state_root": "/home/humaarabajaj/ic_project/blockestate-mvp/.dfx/network/local/state/replicated_state"
+      "state_root": "/Users/shreyanshsharma/Desktop/blockestate-mvp/.dfx/network/local/state/replicated_state"
     },
     "crypto": {
-      "crypto_root": "/home/humaarabajaj/ic_project/blockestate-mvp/.dfx/network/local/state/crypto_store"
+      "crypto_root": "/Users/shreyanshsharma/Desktop/blockestate-mvp/.dfx/network/local/state/crypto_store"
     },
     "artifact_pool": {
-      "consensus_pool_path": "/home/humaarabajaj/ic_project/blockestate-mvp/.dfx/network/local/state/consensus_pool"
+      "consensus_pool_path": "/Users/shreyanshsharma/Desktop/blockestate-mvp/.dfx/network/local/state/consensus_pool"
     },
     "subnet_type": "application",
     "btc_adapter": {
@@ -22,7 +22,7 @@
     },
     "canister_http_adapter": {
       "enabled": true,
-      "socket_path": "/tmp/ic-https-outcalls-adapter-socket.85521.1701400694"
+      "socket_path": "/var/folders/fv/pf_pqm6s2ds43tstk6b5q3wm0000gn/T/ic-https-outcalls-adapter-socket.19304.1701428687"
     },
     "log_level": "error",
     "artificial_delay": 600,
